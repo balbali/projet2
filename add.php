@@ -24,10 +24,7 @@ $stmt->bindParam(3, date('m/d/Y'));
 <form action="" method="POST">
 Libellé Produit: <input type="text" name="fname" required/> </br>
 Prix produit: <input type="text" name="pnumber" required/> </br>
-Libellé Produit: <input type="text" name="fname" required/> </br>
-Prix produit: <input type="text" name="pnumber" required/> </br>
-Libellé Produit: <input type="text" name="fname" required/> </br>
-Prix produit: <input type="text" name="pnumber" required/> </br>
+
 <input type="submit" name="submit_btn"/>
 </form>
 </body>
